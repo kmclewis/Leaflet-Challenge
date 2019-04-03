@@ -6,4 +6,4 @@ Mapping seismic activity using Leaflet and Javascript
 
 
 </pre>
-![healthcare chart](https://github.com/kmclewis/D3-Health-Stats/blob/master/D3%20chart.png)
+![Map showing seismic activity and faultlines.](https://github.com/kmclewis/Leaflet-Challenge/blob/master/screenshot.png)
